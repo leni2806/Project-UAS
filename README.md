@@ -153,5 +153,8 @@ File ini adalah titik masuk (entry point) program yang menyediakan menu interakt
   
 
 ## Link YT
+[Youtube - PROJECT UAS](https://youtu.be/2houbTw_eDI)
+
+
 
 
